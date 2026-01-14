@@ -39,10 +39,12 @@ Minimalist, Digital, Health, Modern, Simple
 
 ## Screenshots Required
 
-- Main watchface view
+- Main watchface view: `static/watch face.png`
 - Heart rate display
 - Date display
 - Battery indicator states (if applicable)
+
+**Screenshot Location**: `static/watch face.png`
 
 ## Icon
 

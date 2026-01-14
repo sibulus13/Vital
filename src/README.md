@@ -6,6 +6,12 @@ A minimalist digital watchface for Fitbit Versa 2 featuring essential time, date
 
 Vital is a sleek, minimal watchface designed for the Fitbit Versa 2. It displays essential information with a focus on readability and simplicity. The watchface features a black background with carefully chosen typography and color accents for optimal visibility and battery efficiency.
 
+<div align="center">
+
+![Vital Watchface](static/watch%20face.png)
+
+</div>
+
 ## Features
 
 ### Core Display
@@ -47,7 +53,7 @@ Vital is a sleek, minimal watchface designed for the Fitbit Versa 2. It displays
 For personal use, sideload the watchface using the Fitbit CLI:
 
 ```bash
-cd my-first-clock
+cd src
 npx fitbit-build
 npx fitbit
 # Then in the Fitbit CLI:

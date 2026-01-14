@@ -1,0 +1,54 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build output
+build/
+*.fba
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Documentation (private)
+_doc/
+
+# Private links and keys
+PRIVATE_LINK.txt
+*.key
+*.secret
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Fitbit specific
+*.fba
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
