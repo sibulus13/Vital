@@ -14,7 +14,7 @@
   "fitbit": {
     "appUUID": "47059a5d-282f-478e-b8f3-5d2a0fa46cbf",
     "appType": "clockface",
-    "appDisplayName": "My First Clock",
+    "appDisplayName": "Vital",
     "iconFile": "resources/icon.png",
     "wipeColor": "#ffffff",
     "requestedPermissions": [
