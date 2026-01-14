@@ -1,4 +1,13 @@
 <svg>
   <rect id="background" />
-</svg>
 
+  <!-- Time -->
+  <text id="timeLabel" class="time" x="50%" y="40%" text-anchor="middle" text-length="10">00:00</text>
+
+  <!-- Date -->
+  <text id="dateLabel" class="date" x="50%" y="55%" text-anchor="middle" text-length="20">Mon Jan 1</text>
+
+  <!-- Heart Rate -->
+  <text id="heartRateLabel" class="heartRate" x="50%" y="70%" text-anchor="middle" text-length="10">--
+    bpm</text>
+</svg>
