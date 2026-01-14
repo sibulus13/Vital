@@ -23,7 +23,7 @@
 }
 
 .separator {
-  fill: white;
+  fill: #c0c0c0;
 }
 
 .heartRate {
@@ -40,13 +40,13 @@
 }
 
 .batteryGreen {
-  fill: #00ff00;
+  fill: #008800;
 }
 
 .batteryYellow {
-  fill: #ffff00;
+  fill: #888800;
 }
 
 .batteryRed {
-  fill: #ff0000;
+  fill: #880000;
 }
