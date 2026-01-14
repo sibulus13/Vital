@@ -26,14 +26,6 @@ Vital is a sleek, minimal watchface designed for the Fitbit Versa 2. It displays
   - Updates automatically from the device's heart rate sensor
   - Displayed in red for visibility
 
-### Status Indicators
-
-- **Battery Indicator** - Color-coded dot in the top right corner
-  - Green: Battery above 50%
-  - Yellow: Battery 20-50%
-  - Red: Battery below 20%
-  - Note: Currently displays green by default (battery API requires companion component in SDK 4.0.0-pre.4)
-
 ### Design Features
 
 - **Minimalist Layout** - Clean, uncluttered interface

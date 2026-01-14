@@ -1,9 +1,6 @@
 <svg>
   <rect id="background" />
 
-  <!-- Battery indicator dot -->
-  <circle id="batteryDot" class="batteryDot batteryGreen" cx="90%" cy="10%" r="4" />
-
   <!-- Time -->
   <text id="timeLabel" class="time" x="50%" y="40%" text-anchor="middle" text-length="10">00:00</text>
 

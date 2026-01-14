@@ -34,19 +34,3 @@
   text-anchor: middle;
   text-length: 10;
 }
-
-.batteryDot {
-  fill: green;
-}
-
-.batteryGreen {
-  fill: #008800;
-}
-
-.batteryYellow {
-  fill: #888800;
-}
-
-.batteryRed {
-  fill: #880000;
-}

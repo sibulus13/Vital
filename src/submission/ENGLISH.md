@@ -17,9 +17,7 @@ Key Features:
 - Large, bold digital time display for easy reading
 - Current date in abbreviated format
 - Real-time heart rate monitoring
-- Color-coded battery indicator
 - Clean, minimalist design with high contrast
-- Always-on display support
 
 Perfect for users who want essential information at a glance without visual clutter.
 
