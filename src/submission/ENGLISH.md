@@ -22,3 +22,8 @@ Key Features:
 Perfect for users who want essential information at a glance without visual clutter.
 
 For improvements, suggestions, or bug reports, please contact: info@si8tech.com
+
+Versioning
+1.0.0 - Initial Release
+1.0.1 - Repo housekeeping
+1.0.2 - Removed battery indicator - requires companion app which just increases battery drain
